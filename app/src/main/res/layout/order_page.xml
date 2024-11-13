@@ -1,0 +1,289 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<FrameLayout
+  xmlns:android="http://schemas.android.com/apk/res/android"
+  xmlns:app="http://schemas.android.com/apk/res-auto"
+  xmlns:tools="http://schemas.android.com/tools"
+  android:layout_width="match_parent"
+  android:layout_height="917dp"
+  android:background="@drawable/drawable_shape">
+  
+  <TextView
+    android:layout_width="wrap_content"
+    android:layout_height="21dp"
+    android:layout_marginLeft="21dp"
+    android:layout_marginTop="116.5dp"
+    android:layout_marginBottom="-0.5dp"
+    android:layout_gravity="top|left"
+    android:gravity="left|center_vertical"
+    android:includeFontPadding="false"
+    android:maxLines="1"
+    android:singleLine="true"
+    android:text="Hai user, Yuk Cuci Sepatu mu hari ini!"
+    android:textColor="#FF0000"
+    android:textSize="16dp" />
+  
+  <ImageView
+    android:layout_width="330dp"
+    android:layout_height="53.5dp"
+    android:layout_marginLeft="40dp"
+    android:layout_marginTop="198.5dp"
+    android:layout_gravity="top|left"
+    android:scaleType="centerInside"
+    android:src="@drawable/drawable_image_4" />
+  
+  <TextView
+    android:layout_width="wrap_content"
+    android:layout_height="21dp"
+    android:layout_marginLeft="52dp"
+    android:layout_marginTop="168.5dp"
+    android:layout_marginBottom="-0.5dp"
+    android:layout_gravity="top|left"
+    android:gravity="left|center_vertical"
+    android:includeFontPadding="false"
+    android:maxLines="1"
+    android:singleLine="true"
+    android:text="Jasa Cuci Sepatu!"
+    android:textColor="#FF0000"
+    android:textSize="16dp" />
+  
+  <ImageView
+    android:layout_width="24dp"
+    android:layout_height="24dp"
+    android:layout_marginLeft="334dp"
+    android:layout_marginTop="213dp"
+    android:layout_gravity="top|left"
+    android:scaleType="centerInside"
+    android:src="@drawable/arrow" />
+  
+  <TextView
+    android:layout_width="wrap_content"
+    android:layout_height="21dp"
+    android:layout_marginLeft="70dp"
+    android:layout_marginTop="212.5dp"
+    android:layout_marginBottom="-0.5dp"
+    android:layout_gravity="top|left"
+    android:gravity="left|center_vertical"
+    android:includeFontPadding="false"
+    android:maxLines="1"
+    android:singleLine="true"
+    android:text="Pilih Jasa"
+    android:textColor="#FF000000"
+    android:textSize="16dp" />
+  
+  <ImageView
+    android:layout_width="330dp"
+    android:layout_height="53.5dp"
+    android:layout_marginLeft="40dp"
+    android:layout_marginTop="342.5dp"
+    android:layout_gravity="top|left"
+    android:scaleType="centerInside"
+    android:src="@drawable/drawable_image_4" />
+  
+  <TextView
+    android:layout_width="wrap_content"
+    android:layout_height="21dp"
+    android:layout_marginLeft="52dp"
+    android:layout_marginTop="312.5dp"
+    android:layout_marginBottom="-0.5dp"
+    android:layout_gravity="top|left"
+    android:gravity="left|center_vertical"
+    android:includeFontPadding="false"
+    android:maxLines="1"
+    android:singleLine="true"
+    android:text="Berapa Sepatu"
+    android:textColor="#FF0000"
+    android:textSize="16dp" />
+
+  <TextView
+      android:layout_width="wrap_content"
+      android:layout_height="21dp"
+      android:layout_gravity="top|left"
+      android:layout_marginLeft="70dp"
+      android:layout_marginTop="356.5dp"
+      android:layout_marginBottom="-0.5dp"
+      android:gravity="left|center_vertical"
+      android:includeFontPadding="false"
+      android:maxLines="1"
+      android:singleLine="true"
+      android:text="Pilih Quantity"
+      android:textColor="#FF000000"
+      android:textSize="16dp" />
+  
+  <ImageView
+    android:layout_width="24dp"
+    android:layout_height="24dp"
+    android:layout_marginLeft="334dp"
+    android:layout_marginTop="357dp"
+    android:layout_gravity="top|left"
+    android:scaleType="centerInside"
+    android:src="@drawable/arrow" />
+  
+  <ImageView
+    android:layout_width="330dp"
+    android:layout_height="53.5dp"
+    android:layout_marginLeft="40dp"
+    android:layout_marginTop="486.5dp"
+    android:layout_gravity="top|left"
+    android:scaleType="centerInside"
+    android:src="@drawable/drawable_image_4" />
+  
+  <TextView
+    android:layout_width="wrap_content"
+    android:layout_height="21dp"
+    android:layout_marginLeft="52dp"
+    android:layout_marginTop="456.5dp"
+    android:layout_marginBottom="-0.5dp"
+    android:layout_gravity="top|left"
+    android:gravity="left|center_vertical"
+    android:includeFontPadding="false"
+    android:maxLines="1"
+    android:singleLine="true"
+    android:text="Pilih Pembayaran"
+    android:textColor="#FF0000"
+    android:textSize="16dp" />
+  
+  <TextView
+    android:layout_width="wrap_content"
+    android:layout_height="21dp"
+    android:layout_marginLeft="70dp"
+    android:layout_marginTop="500.5dp"
+    android:layout_marginBottom="-0.5dp"
+    android:layout_gravity="top|left"
+    android:gravity="left|center_vertical"
+    android:includeFontPadding="false"
+    android:maxLines="1"
+    android:singleLine="true"
+    android:text="Pilih Pembayaran"
+    android:textColor="#FF000000"
+    android:textSize="16dp" />
+  
+  <ImageView
+    android:layout_width="24dp"
+    android:layout_height="24dp"
+    android:layout_marginLeft="334dp"
+    android:layout_marginTop="501dp"
+    android:layout_gravity="top|left"
+    android:scaleType="centerInside"
+    android:src="@drawable/arrow" />
+  
+  <ImageView
+    android:layout_width="330dp"
+    android:layout_height="53.5dp"
+    android:layout_marginLeft="40dp"
+    android:layout_marginTop="645.5dp"
+    android:layout_gravity="top|left"
+    android:scaleType="centerInside"
+    android:src="@drawable/drawable_image_6" />
+  
+  <TextView
+    android:layout_width="wrap_content"
+    android:layout_height="21dp"
+    android:layout_marginLeft="52dp"
+    android:layout_marginTop="615.5dp"
+    android:layout_marginBottom="-0.5dp"
+    android:layout_gravity="top|left"
+    android:gravity="left|center_vertical"
+    android:includeFontPadding="false"
+    android:maxLines="1"
+    android:singleLine="true"
+    android:text="Punya Voucher? Silahkan Pilih!"
+    android:textColor="#FF0000"
+    android:textSize="16dp" />
+  
+  <TextView
+    android:layout_width="wrap_content"
+    android:layout_height="21dp"
+    android:layout_marginLeft="70dp"
+    android:layout_marginTop="659.5dp"
+    android:layout_marginBottom="-0.5dp"
+    android:layout_gravity="top|left"
+    android:gravity="left|center_vertical"
+    android:includeFontPadding="false"
+    android:maxLines="1"
+    android:singleLine="true"
+    android:text="Pilih Voucher"
+    android:textColor="#FF000000"
+    android:textSize="16dp" />
+  
+  <ImageView
+    android:layout_width="24dp"
+    android:layout_height="24dp"
+    android:layout_marginLeft="334dp"
+    android:layout_marginTop="660dp"
+    android:layout_gravity="top|left"
+    android:scaleType="centerInside"
+    android:src="@drawable/arrow" />
+
+  <ImageView
+      android:layout_width="140.5dp"
+      android:layout_height="40.5dp"
+      android:layout_gravity="top|left"
+      android:layout_marginLeft="242.5dp"
+      android:layout_marginTop="770.5dp"
+      android:scaleType="centerInside"
+      android:src="@drawable/drawable_image_8" />
+
+  <TextView
+      android:layout_width="wrap_content"
+      android:layout_height="25dp"
+      android:layout_gravity="top|left"
+      android:layout_marginLeft="280dp"
+      android:layout_marginTop="780.5dp"
+      android:layout_marginBottom="-0.5dp"
+      android:gravity="left|center_vertical"
+      android:includeFontPadding="false"
+      android:maxLines="1"
+      android:singleLine="true"
+      android:text="Order!"
+      android:textColor="#FFFFFF"
+      android:textSize="20dp" />
+
+  <ImageView
+    android:layout_width="470dp"
+    android:layout_height="92dp"
+    android:layout_marginLeft="-30dp"
+    android:layout_marginTop="-20dp"
+    android:layout_gravity="top|left"
+    android:scaleType="centerInside"
+    android:src="@drawable/drawable_image_9" />
+
+  <TextView
+    android:layout_width="wrap_content"
+    android:layout_height="40dp"
+    android:layout_marginLeft="84dp"
+    android:layout_marginTop="16.5dp"
+    android:layout_marginBottom="-0.5dp"
+    android:layout_gravity="top|left"
+    android:gravity="left|center_vertical"
+    android:includeFontPadding="false"
+    android:maxLines="1"
+    android:singleLine="true"
+    android:text="Silahkan Order"
+    android:textColor="#FFFFFFFF"
+    android:textSize="32dp" />
+  
+  <TextView
+    android:layout_width="wrap_content"
+    android:layout_height="30dp"
+    android:layout_marginLeft="21dp"
+    android:layout_marginTop="722.5dp"
+    android:layout_marginBottom="-0.5dp"
+    android:layout_gravity="top|left"
+    android:gravity="left|center_vertical"
+    android:includeFontPadding="false"
+    android:maxLines="1"
+    android:singleLine="true"
+    android:text="Pilih Outlet!"
+    android:textColor="#FF0000"
+    android:textSize="24dp" />
+
+  <ImageView
+      android:layout_width="50dp"
+      android:layout_height="50dp"
+      android:layout_gravity="top|left"
+      android:layout_marginLeft="50dp"
+      android:layout_marginTop="762dp"
+      android:scaleType="centerInside"
+      android:src="@drawable/drawable_image_10" />
+</FrameLayout>

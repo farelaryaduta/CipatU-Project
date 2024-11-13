@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<FrameLayout
+  xmlns:android="http://schemas.android.com/apk/res/android"
+  xmlns:app="http://schemas.android.com/apk/res-auto"
+  xmlns:tools="http://schemas.android.com/tools"
+  android:layout_width="match_parent"
+  android:layout_height="917dp"
+  android:background="@drawable/drawable_shape">
+  
+  <TextView
+    android:layout_width="wrap_content"
+    android:layout_height="40dp"
+    android:layout_marginLeft="112dp"
+    android:layout_marginTop="197.5dp"
+    android:layout_marginBottom="-0.5dp"
+    android:layout_gravity="top|left"
+    android:gravity="left|center_vertical"
+    android:includeFontPadding="false"
+    android:maxLines="1"
+    android:singleLine="true"
+    android:text="Buat Akun!"
+    android:textColor="#FF0000"
+    android:textSize="32dp" />
+  
+  <ImageView
+    android:layout_width="329dp"
+    android:layout_height="53.5dp"
+    android:layout_marginLeft="42dp"
+    android:layout_marginTop="328dp"
+    android:layout_gravity="top|left"
+    android:scaleType="centerInside"
+    android:src="@drawable/drawable_image" />
+  
+  <ImageView
+    android:layout_width="329dp"
+    android:layout_height="53.5dp"
+    android:layout_marginLeft="42dp"
+    android:layout_marginTop="441dp"
+    android:layout_gravity="top|left"
+    android:scaleType="centerInside"
+    android:src="@drawable/drawable_image" />
+  
+  <ImageView
+    android:layout_width="329dp"
+    android:layout_height="53.5dp"
+    android:layout_marginLeft="42dp"
+    android:layout_marginTop="554dp"
+    android:layout_gravity="top|left"
+    android:scaleType="centerInside"
+    android:src="@drawable/drawable_image" />
+  
+  <ImageView
+    android:layout_width="251dp"
+    android:layout_height="46dp"
+    android:layout_marginLeft="83dp"
+    android:layout_marginTop="735dp"
+    android:layout_gravity="top|left"
+    android:scaleType="centerInside"
+    android:src="@drawable/drawable_image_2" />
+  
+  <TextView
+    android:layout_width="wrap_content"
+    android:layout_height="25dp"
+    android:layout_marginLeft="150dp"
+    android:layout_marginTop="745.5dp"
+    android:layout_marginBottom="-0.5dp"
+    android:layout_gravity="top|left"
+    android:gravity="left|center_vertical"
+    android:includeFontPadding="false"
+    android:maxLines="1"
+    android:singleLine="true"
+    android:text="Buat Akun!"
+    android:textColor="#FFFFFFFF"
+    android:textSize="20dp" />
+  
+  <TextView
+    android:layout_width="wrap_content"
+    android:layout_height="21dp"
+    android:layout_marginLeft="42dp"
+    android:layout_marginTop="295.5dp"
+    android:layout_marginBottom="-0.5dp"
+    android:layout_gravity="top|left"
+    android:gravity="left|center_vertical"
+    android:includeFontPadding="false"
+    android:maxLines="1"
+    android:singleLine="true"
+    android:text="Masukkan Username"
+    android:textColor="#FF0000"
+    android:textSize="16dp" />
+  
+  <TextView
+    android:layout_width="wrap_content"
+    android:layout_height="21dp"
+    android:layout_marginLeft="42dp"
+    android:layout_marginTop="406.5dp"
+    android:layout_marginBottom="-0.5dp"
+    android:layout_gravity="top|left"
+    android:gravity="left|center_vertical"
+    android:includeFontPadding="false"
+    android:maxLines="1"
+    android:singleLine="true"
+    android:text="Masukkan Password"
+    android:textColor="#FF0000"
+    android:textSize="16dp" />
+  
+  <TextView
+    android:layout_width="wrap_content"
+    android:layout_height="21dp"
+    android:layout_marginLeft="42dp"
+    android:layout_marginTop="520.5dp"
+    android:layout_marginBottom="-0.5dp"
+    android:layout_gravity="top|left"
+    android:gravity="left|center_vertical"
+    android:includeFontPadding="false"
+    android:maxLines="1"
+    android:singleLine="true"
+    android:text="Masukkan Email"
+    android:textColor="#FF0000"
+    android:textSize="16dp" />
+
+  <EditText
+      android:id="@+id/editTextTextPersonName"
+      android:layout_width="wrap_content"
+      android:layout_height="50dp"
+      android:layout_gravity="top|left"
+      android:layout_marginLeft="66dp"
+      android:layout_marginTop="332.5dp"
+      android:layout_marginBottom="-0.5dp"
+      android:gravity="left|center_vertical"
+      android:includeFontPadding="false"
+      android:maxLines="1"
+      android:singleLine="true"
+      android:text="Username Baru"
+      android:textColor="#FF000000"
+      android:textSize="16dp" />
+
+  <EditText
+      android:layout_width="wrap_content"
+      android:layout_height="50dp"
+      android:layout_gravity="top|left"
+      android:layout_marginLeft="66dp"
+      android:layout_marginTop="445.5dp"
+      android:layout_marginBottom="-0.5dp"
+      android:gravity="left|center_vertical"
+      android:includeFontPadding="false"
+      android:maxLines="1"
+      android:singleLine="true"
+      android:text="Password Baru"
+      android:textColor="#FF000000"
+      android:textSize="16dp" />
+
+  <EditText
+      android:id="@+id/editTextTextEmailAddress"
+      android:layout_width="wrap_content"
+      android:layout_height="50dp"
+      android:layout_gravity="top|left"
+      android:layout_marginLeft="66dp"
+      android:layout_marginTop="560.5dp"
+      android:layout_marginBottom="-0.5dp"
+      android:gravity="left|center_vertical"
+      android:includeFontPadding="false"
+      android:maxLines="1"
+      android:singleLine="true"
+      android:text="Email Baru"
+      android:textColor="#FF000000"
+      android:textSize="16dp" />
+
+
+</FrameLayout>
